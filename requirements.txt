@@ -1,0 +1,4 @@
+torch
+torchvision 
+torchaudio
+tiktoken==0.7.0
